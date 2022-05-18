@@ -25,8 +25,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Licence 
 
-[MIT](https://choosealicense.com/licenses/mit/)https://choosealicense.com/licenses/mit/)
-
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 ![Red Fox](https://i.hizliresim.com/tvqjzfj.jpg)
